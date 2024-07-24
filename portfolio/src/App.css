@@ -1,0 +1,55 @@
+*{
+    background-color: green;
+}
+
+.navhead{
+    /* background-color: forestgreen; */
+    font-size: 2rem;      
+     
+}
+
+.section{
+    height: 65vh ;
+    /* background-color: forestgreen; */
+}
+.section p {
+    font: 1.5em sans-serif;
+}
+
+
+.footer {
+  color: black;
+
+  
+}
+
+.footer a {
+   color: black;
+   text-decoration: none; 
+}
+
+.image{
+   border:20px solid black;
+   border-radius: 200px;
+
+}
+
+.image img{ 
+    width: 300px;
+    transform: rotate(
+        20deg);
+}
+
+#home:hover{
+    cursor: pointer; 
+}
+
+#About:hover{
+      cursor: pointer;
+}
+#Skills:hover{
+    cursor: pointer;
+}
+#Projects:hover{
+      cursor: pointer;
+}

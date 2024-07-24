@@ -1,0 +1,13 @@
+.custom-progress-bar {
+  background-color: green;
+  color:black ;
+  border: 5px solid black;
+  height: 40px;
+} 
+.progress{
+    height: 40px; 
+}
+
+.heading{
+    border-bottom: 2px solid black;
+}
